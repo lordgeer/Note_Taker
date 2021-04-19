@@ -1,6 +1,10 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"The Darkside of the Force",
+        "text":"Is a pathway to many abilites, some considered to be...unnatural"
+    },
+    {
+        "title":"Chancellor Palpatine",
+        "text":"He's the Sith Lord we've been searching for!"
     }
 ]
